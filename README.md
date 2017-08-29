@@ -1,4 +1,4 @@
-# Pima Indians Diabetes Exploratory Analysis and Predictive Models
+# Pima Indians Diabetes
 
 This repository contains an IPython notebook which introdues concepts involved in exploratory analysis, and visualization techniques while using the [pima-indians-diabetes](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes) dataset offered by UCI. The notebook was created alongside tutorials from http://machinelearningmastery.com.
 
