@@ -1,6 +1,6 @@
-# Pima Indians Diabetes
+### Pima Indians Diabetes
 
-This repository contains an IPython notebook which introdues concepts involved in exploratory analysis, and visualization techniques while using the [pima-indians-diabetes](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes) dataset offered by UCI. The notebook was created alongside tutorials from http://machinelearningmastery.com.
+This repository contains an IPython notebook which introdues concepts involved in exploratory analysis, and visualization techniques while using the [pima-indians-diabetes](https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes) dataset offered by UCI. The notebook was created alongside [tutorials](http://machinelearningmastery.com/visualize-machine-learning-data-python-pandas/) in visualization and descriptive statistics.
 
 Towards the end of the notebook after the data had been pre-processed, several machine learning models were trained on the dataset. These involved a k-Nearest Neighbours classifier, a Support Vector Machine with a radial basis function, and a Logistic Regression classification model - all of which could predict the onset of diabetes with over 70% accuracy.
 
